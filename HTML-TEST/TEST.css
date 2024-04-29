@@ -1,0 +1,71 @@
+table
+{
+    border-collapse: collapse;
+    width: 100%;
+}
+
+th  
+{
+    border: 1px solid #ddd;
+    padding: 20px;
+    color: rgb(0, 0, 0);
+}
+
+td
+{
+    margin: 170px;
+    padding: 20px;
+    align-items: center;
+    color: rgb(0, 0, 0);
+}
+
+#Vorname, #Akin
+{
+    background-color: rgb(255, 0, 0);
+}
+
+#Nachname, #Kale
+{
+    background-color: green;
+}
+
+#Alter, #Zahl
+{
+    background-color: blue;
+}
+
+#Akin
+{
+    margin-left: auto;
+    text-align: center;
+}
+
+#Kale
+{
+    margin-left: auto;
+    text-align: center;
+}
+
+#Zahl
+{
+    margin-left: auto;
+    text-align: center;
+}
+
+nav #Youtube
+{
+    margin-left: 170px;
+    padding: 10px;
+}
+
+nav #Homer
+{
+    margin-left: 360px;
+    padding: 10px;
+}
+
+nav #Tiger
+{
+    margin-left: 330px;
+    padding: 10px;
+}
